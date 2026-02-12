@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/1200x/90/54/d6/9054d63fa01bbc663962d2476c2c31e9.jpg" width="800">
 </p>
 
-<h1 align="center">𝒟ℯ𝓈𝒶𝓇𝓇ℴ𝓁𝓁ℴ 𝒹ℯ 𝒶𝓅𝓁𝒾𝒸𝒶𝒸𝒾ℴ𝓃ℯ𝓈 𝓂ℴ𝓋𝒾𝓁ℯ𝓈</h1>
+<h1 align="center">ℳℴ𝒷𝒾𝓁ℯ 𝒜𝓅𝓅𝓁𝒾𝒸𝒶𝓉𝒾ℴ𝓃 𝒟ℯ𝓋ℯ𝓁ℴ𝓅𝓂ℯ𝓃𝓉</h1>
 <p align="center">
   𝑴𝒂𝒓𝒊𝒂 𝑱𝒐𝒔𝒆 𝑽𝒂𝒛𝒒𝒖𝒆𝒛 𝑹𝒐𝒎𝒂𝒏𝒐 
   <br> 
@@ -14,7 +14,7 @@
 </p>
 
 
-<h1 align="center"> *¸.꧁~✞°”ˆ㆕ description of the codes ˆ㆕°✞~꧂.„¸*</h1>
+<h1 align="center"> *¸.꧁~✞°”ˆ㆕ 𝔇𝔢𝔰𝔠𝔯𝔦𝔭𝔱𝔦𝔬𝔫 𝔬𝔣 𝔱𝔥𝔢 𝔠𝔬𝔡𝔢𝔰 ˆ㆕°✞~꧂.„¸*</h1>
 
 
 
