@@ -13,7 +13,7 @@ main(){
   print(a + b);
 
   //========== cadenas ==============
-  String nombre = 'caro';
+  String nombre = 'x';
   String apellido = "Piz";
   String apellidoRandom = 'O\'Connor';
   String? cadenaVacia;
