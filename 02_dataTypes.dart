@@ -89,9 +89,9 @@ main(){
       capitanAmerica.addAll{
       'nombre': 'Steve',
       'poder': 'fuera, agilidad y resitencia',
-      'edad': 102,)
+      'edad': 102,);
       };
-    };
+    }
 
     print(ironman)
     print(warMachine);
